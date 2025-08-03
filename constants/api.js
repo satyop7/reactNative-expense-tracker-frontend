@@ -1,0 +1,1 @@
+export const API_URL = "https://reactnative-expense-tracker-xgdf.onrender.com/api";
