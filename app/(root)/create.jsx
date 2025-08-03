@@ -11,7 +11,7 @@ import { useRouter } from "expo-router";
 import { useUser } from "@clerk/clerk-expo";
 import { useState } from "react";
 import { API_URL } from "../../constants/api";
-import { styles } from "../../assets/styles/create.styles";
+import { styles } from "../../assets/styles/create.style.js";
 import { COLORS } from "../../constants/colors.js";
 import { Ionicons } from "@expo/vector-icons";
 
